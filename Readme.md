@@ -4,8 +4,6 @@ A supervised machine learning project that predicts whether a loan application i
 
 **Live demo:** https://creditwise-loan-approval-system-vk18.streamlit.app/
 
-![App screenshot](screenshot.png)
-
 > This is a student learning project. It is not real financial advice and should not be used for actual lending decisions.
 
 ## Problem statement
